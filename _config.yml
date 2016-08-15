@@ -1,0 +1,14 @@
+layout_spectrum: 0.5755654275417328
+typography_spectrum: 0.47847616928629577
+color:
+  brandStrength: 0.9697239077650011
+  lightness: 0.02643342106603086
+  saturation: 0.7676418330520391
+  rhythmicContrast: 0.541322099743411
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: REBELiGAN
