@@ -1,4 +1,6 @@
 typography_spectrum: 0.47847616928629577
+content_rating:
+  adult: false
 color:
   brandStrength: 0.9697239077650011
   lightness: 0.02643342106603086
@@ -11,6 +13,14 @@ color:
     - '#E3CDA4'
     - '#C77966'
 layout_spectrum: 0.5755654275417328
+author:
+  name: REBELiGAN
+  email: REBELiGAN@gmail.com
+  url: 'https://www.youtube.com/channel/UCCiLT6YyDPjOQoWgjvDIJHw'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5eba1c38-ddc7-4924-906d-87bafcc86cef.jpg
 name: REBELiGAN
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e67fb749-c103-4080-8d3a-d5b8fc11c820.jpg
 title: REBELiGAN
 description: 'Oh, sh**, it''s...'
