@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-16T01:57:50.526Z'
+datePublished: '2016-08-16T03:17:46.984Z'
 sourcePath: _posts/2016-08-16-im-on-the-road-to-discovery.md
 author: []
 via: {}
-dateModified: '2016-08-16T01:57:50.135Z'
+dateModified: '2016-08-16T03:17:46.547Z'
 title: Shall we play a game?
 publisher:
   name: REBELiGAN
