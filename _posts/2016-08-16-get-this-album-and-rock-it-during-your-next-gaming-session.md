@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-16T03:17:31.345Z'
+datePublished: '2016-08-16T03:18:32.418Z'
 sourcePath: >-
   _posts/2016-08-16-get-this-album-and-rock-it-during-your-next-gaming-session.md
 author: []
 via: {}
-dateModified: '2016-08-16T03:17:30.717Z'
+dateModified: '2016-08-16T03:18:31.974Z'
 title: ''
 publisher:
   name: 'Richie Branson, Solar Slim'
