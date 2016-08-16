@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-16T03:18:07.568Z'
+datePublished: '2016-08-16T03:21:11.382Z'
 sourcePath: _posts/2016-08-16-ive-been-spending-some-time-getting-my-pcs-game-selection.md
 author: []
 via: {}
-dateModified: '2016-08-16T03:18:07.101Z'
+dateModified: '2016-08-16T03:21:10.940Z'
 title: ''
 publisher:
   name: REBELiGAN
@@ -23,4 +23,4 @@ _type: MediaObject
 
 I've been spending some time getting my PC's game selection back in order while I wait for my trip to Brentwood, NJ. I'm thinking Planetside 2, DOOM 2016 and No Man's Sky should keep me busy enough for now.
 
-I'm definitely HYPE to share some videos about the things I've been discovering in these games here and via
+I'm definitely HYPE to share some videos about the things I've been discovering!
