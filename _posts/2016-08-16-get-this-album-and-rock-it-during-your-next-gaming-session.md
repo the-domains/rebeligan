@@ -1,16 +1,16 @@
 ---
-description: 'Get this album and rock it during your next gaming session. HELL, yeah!'
-dateModified: '2016-08-16T03:14:18.240Z'
-datePublished: '2016-08-16T03:15:03.821Z'
-title: ''
+datePublished: '2016-08-16T03:17:31.345Z'
+sourcePath: >-
+  _posts/2016-08-16-get-this-album-and-rock-it-during-your-next-gaming-session.md
 author: []
+via: {}
+dateModified: '2016-08-16T03:17:30.717Z'
+title: ''
 publisher:
   name: 'Richie Branson, Solar Slim'
   url: 'https://youtube.com'
-via: {}
+description: 'Get this album and rock it during your next gaming session. HELL, yeah!'
 starred: false
-sourcePath: >-
-  _posts/2016-08-16-get-this-album-and-rock-it-during-your-next-gaming-session.md
 inFeed: true
 hasPage: false
 inNav: false
