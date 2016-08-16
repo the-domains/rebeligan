@@ -13,6 +13,8 @@ color:
     - '#9C3C28'
     - '#053A38'
 layout_spectrum: 0.8662041672505438
+analytics:
+  google: UA-38685198-3
 author:
   name: REBELiGAN
   email: REBELiGAN@gmail.com
