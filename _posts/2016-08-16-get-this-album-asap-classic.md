@@ -1,16 +1,16 @@
 ---
+datePublished: '2016-08-16T03:18:20.530Z'
+sourcePath: _posts/2016-08-16-get-this-album-asap-classic.md
+author: []
+via: {}
+dateModified: '2016-08-16T03:18:20.002Z'
+title: 'GET THIS ALBUM, ASAP! #Classic'
+publisher:
+  name: Logic
 description: >-
   Another amazing album and I’ve been waiting a long minute to get it. Add this
   one to your playlist if you LOVE hip hop!
-dateModified: '2016-08-16T03:14:50.555Z'
-datePublished: '2016-08-16T03:15:01.185Z'
-title: 'GET THIS ALBUM, ASAP! #Classic'
-author: []
-publisher:
-  name: Logic
-via: {}
 starred: false
-sourcePath: _posts/2016-08-16-get-this-album-asap-classic.md
 inFeed: true
 hasPage: false
 inNav: false
