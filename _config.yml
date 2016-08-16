@@ -1,18 +1,18 @@
-typography_spectrum: 0.47847616928629577
+typography_spectrum: 0.7542794535402209
 content_rating:
   adult: false
 color:
-  brandStrength: 0.9697239077650011
-  lightness: 0.02643342106603086
-  saturation: 0.7676418330520391
-  rhythmicContrast: 0.541322099743411
+  brandStrength: 0.7707823847886175
+  lightness: 0.14033668208867311
+  saturation: 0.45361045305617154
+  rhythmicContrast: 0.4109635928180069
   brandColors:
-    - '#703030'
-    - '#2F343B'
-    - '#7E827A'
-    - '#E3CDA4'
-    - '#C77966'
-layout_spectrum: 0.5755654275417328
+    - '#010715'
+    - '#FFFEAB'
+    - '#BF7351'
+    - '#9C3C28'
+    - '#053A38'
+layout_spectrum: 0.8662041672505438
 author:
   name: REBELiGAN
   email: REBELiGAN@gmail.com
