@@ -1,15 +1,15 @@
 ---
-description: “I’m on the road to discovery.”
-dateModified: '2016-08-16T01:55:45.623Z'
-datePublished: '2016-08-16T01:56:03.239Z'
-title: ''
+datePublished: '2016-08-16T01:56:38.221Z'
+sourcePath: _posts/2016-08-16-im-on-the-road-to-discovery.md
 author: []
+via: {}
+dateModified: '2016-08-16T01:56:37.403Z'
+title: ''
 publisher:
   name: REBELiGAN
   url: 'https://www.youtube.com/channel/UCCiLT6YyDPjOQoWgjvDIJHw'
-via: {}
+description: “I’m on the road to discovery.”
 starred: false
-sourcePath: _posts/2016-08-16-im-on-the-road-to-discovery.md
 inFeed: true
 hasPage: false
 inNav: false
